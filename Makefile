@@ -13,3 +13,6 @@ test: lint
 
 test-watch: lint
 	@$(BIN)/mocha -w -R spec test/tests.js
+
+publish:
+	@npm publish
