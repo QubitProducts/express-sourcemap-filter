@@ -1,4 +1,4 @@
-# express-sourcemap-filter [ ![Codeship Status for QubitProducts/express-sourcemap-filter](https://codeship.com/projects/a0c512b0-b546-0133-9f24-3e023a4cadff/status?branch=master)](https://codeship.com/projects/134073)
+# express-sourcemap-filter [ ![Codeship Status for QubitProducts/express-sourcemap-filter](https://codeship.com/projects/a0c512b0-b546-0133-9f24-3e023a4cadff/status?branch=master)](https://codeship.com/projects/134073) [![npm version](https://badge.fury.io/js/express-sourcemap-filter.svg)](https://badge.fury.io/js/express-sourcemap-filter)
 
 Middleware for express that restricts sourcemap access to an array of IP addresses.
 
